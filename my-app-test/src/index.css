@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.grid-content {
+  border-radius: 4px;
+  min-height: 36px;
+}
+
+.bg-purple-dark {
+  background: #99a9bf;
+}
+
+.bg-purple {
+  background: #d3dce6;
+}
+
+.bg-purple-light {
+  background: #e5e9f2;
+}
+
+.intro-block {
+  padding: 0;
+}
+
+.intro-block .block {
+  padding: 30px 24px;
+  overflow: hidden;
+  border-bottom: solid 1px #EFF2F6;
+}
+.intro-block .demonstration {
+  font-size: 14px;
+  color: #8492a6;
+  line-height: 44px;
+}
+.intro-block .wrapper {
+  float: right;
+  margin-right: 20px;
+}
